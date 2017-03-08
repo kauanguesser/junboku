@@ -29,7 +29,8 @@
         "symfony/phpunit-bridge": "^3.0",
         "phpunit/phpunit": "^5.0",
         "phpmd/phpmd": "^2.6",
-        "friendsofphp/php-cs-fixer": "^2.1"
+        "friendsofphp/php-cs-fixer": "^2.1",
+        "sebastian/phpcpd": "^3.0"
     },
     "scripts": {
         "symfony-scripts": [
